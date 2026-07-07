@@ -16,22 +16,21 @@ const lyrics = [
   { text: "Ya", timingMs: 600, hideAfterMs: 350 },
 
   { text: "Kamu itu adalah wanita terbaik yang aku kenal setelah ibuku", timingMs: 3500, hideAfterMs: 900 },
-  { text: "Aku berharap kamu betah sama aku", timingMs: 2000, hideAfterMs: 800 },
-
-  { text: "Aku suka dengan sikap kamu yang selalu bilang kalau ada masalah", timingMs: 1500, hideAfterMs: 600 },
-  { text: "Ya", timingMs: 1000, hideAfterMs: 1000 },
-  { text: "Terkadang", timingMs: 1000, hideAfterMs: 600 },
+  { text: "Aku berharap kamu betah sama aku", timingMs: 2000, hideAfterMs: 1000 },
+  { text: "Aku suka dengan sikap kamu yang selalu bilang kalau ada masalah", timingMs: 2500, hideAfterMs: 700 },
+  { text: "Yaa", timingMs: 800, hideAfterMs: 500 },
+  { text: "Terkadang", timingMs: 500, hideAfterMs: 600 },
   { text: "Bilangnya memang telat", timingMs: 1000, hideAfterMs: 600 },
   { text: "Tapi...", timingMs: 1000, hideAfterMs: 600 },
   { text: "Aku selalu menghargai itu", timingMs: 1500, hideAfterMs: 600 },
   { text: "Dan kamu juga jangan", timingMs: 1000, hideAfterMs: 600 },
   { text: "Insecure", timingMs: 1000, hideAfterMs: 600 },
-  { text: "Kamu itu cantik, Dan selalu jadi yang terbaik dimata aku", timingMs: 3000, hideAfterMs: 4000 },
+  { text: "Kamu itu cantik, Dan selalu jadi yang terbaik dimata aku", timingMs: 3000, hideAfterMs: 2000 },
   { text: "Aku sayang banget sama kamu", timingMs: 2000, hideAfterMs: 600 }
 ];
 
 // Transisi terakhir (diakhiri dengan ini)
-const endingWords = "Selamat malam, cantiknya aku";
+const endingWords = "Selamat malam, Cantiknya aku";
 
 // delay setelah endingWords selesai diketik sebelum tampilkan heading ending
 const endingAfterMs = 700;
